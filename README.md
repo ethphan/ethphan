@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Frontend/Fullstack Engineer with a expertise in JavaScript, TypeScript, React, and Node.js. I enjoy building intuitive and high-performance applications that deliver seamless user experiences.
+I am a Software Engineer that enjoy building intuitive and high-performance applications that deliver seamless user experiences.
 
 <!---               
 
